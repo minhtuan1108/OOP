@@ -1,0 +1,20 @@
+PN001
+TL001
+Khoa học
+12/12/2021
+Kim Thư
+Giáo dục
+SGK
+162
+23000
+
+PN002
+TL002
+Địa lý
+31/12/2021
+ABC
+Giáo dục
+SGK
+400
+12500
+
